@@ -1,0 +1,5 @@
+dist
+venv
+build
+.idea
+__init__.spec
