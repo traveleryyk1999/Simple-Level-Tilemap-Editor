@@ -1,7 +1,6 @@
 # Simple-Level-Tilemap-Editor
 Implemented with PySide6, paint your own map!
 ---
-Credit to @trevorvanhoof
 ---
 
 ## 1. How to run
