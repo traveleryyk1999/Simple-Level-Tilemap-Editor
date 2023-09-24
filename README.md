@@ -14,7 +14,7 @@ The main window is like this
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/45763115/229340198-a492cc11-4585-4fee-b07e-54aa9f98c12d.png">
 
 Left click to paint and Right click to erase
-![](https://github.com/traveleryyk1999/Simple-Level-Tilemap-Editor/blob/main/Animation1.gif)
+![](./Animation1.gif)
 The map file are saved as .json format and better be saved under the root directory.
 
 ## 3. Paint your own tile
