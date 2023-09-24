@@ -19,6 +19,6 @@ The map file are saved as .json format and better be saved under the root direct
 
 ## 3. Paint your own tile
 Windows painting software:
-![](https://github.com/traveleryyk1999/Simple-Level-Tilemap-Editor/blob/main/Animation2.gif)
+![](./Animation2.gif)
 Try to set one specific background color (I hardcoded (255, 0, 255)) and run **image_transparency.py** to make the tiles under root folder transparent.
 Enjoy it!
